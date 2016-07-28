@@ -1,3 +1,12 @@
+//BUBBLE SORT ALGORITHM
+
+//TIME COMPLEXITY:
+////BEST - O(n)
+////AVERAGE - O(n^2)
+////WORST - O(n^2)
+
+//SPACE COMPLEXITY: O(1)
+
 #include <stdio.h>
 
 int inputArray(int[], int);

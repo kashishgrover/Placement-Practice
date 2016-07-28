@@ -1,5 +1,14 @@
-#include<stdlib.h>
-#include<stdio.h>
+//MERGE SORT ALGORITHM
+
+//TIME COMPLEXITY:
+////BEST - O(n.log(n))
+////AVERAGE - O(n.log(n))
+////WORST - O(n.log(n))
+
+//SPACE COMPLEXITY: O(n)
+
+#include <stdlib.h>
+#include <stdio.h>
 
 void merge(int arr[], int l, int m, int r)
 {
