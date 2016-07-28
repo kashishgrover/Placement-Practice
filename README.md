@@ -1,2 +1,3 @@
 # Placement-Practice
-A repository that shall contain all my placement practice. 
+
+This repository shall contain all my placement practice.
