@@ -18,7 +18,7 @@ class Ninja: public Enemy {
 class Monster: public Enemy {
 	public:
 		void attack() {
-			cout<<"Monster Attack!"<<endl;
+			cout<<"Monster Attack!"<<endl; 
 		}
 };
 
